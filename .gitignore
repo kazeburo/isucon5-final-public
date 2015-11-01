@@ -1,0 +1,13 @@
+go/
+nodejs/
+php/
+python/
+ruby/
+scala/
+java/
+node/
+perl/local
+perl/cpanfile.snapshot
+perl/pages
+*~
+

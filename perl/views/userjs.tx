@@ -1,0 +1,14 @@
+: given $grade {
+:   when 'micro' {
+var AIR_ISU_REFRESH_INTERVAL = 30000;
+:   }
+:   when 'small' {
+var AIR_ISU_REFRESH_INTERVAL = 30000;
+:   }
+:   when 'standard' {
+var AIR_ISU_REFRESH_INTERVAL = 20000;
+:   }
+:   when 'premium' {
+var AIR_ISU_REFRESH_INTERVAL = 10000;
+:   }
+: }
